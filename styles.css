@@ -1,0 +1,48 @@
+body{
+    background-color: #414242;
+}
+
+h1{
+    color: #A5C9CA;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: #A5C9CA;
+}
+hr.test1{
+    border: 5px silver;
+    border-style: outset;
+    height: 5px;
+    border-radius: 20px;
+}
+hr.test2{
+    border: 5px silver;
+    border-style: outset;
+    height: 0px;
+    border-radius: 20px;
+}
+hr.dot1{
+    height: 10px;
+    border-style: dotted;
+    width: 10%;
+    border-color: silver;
+    border-bottom: 20px;
+    border-left: 0px;
+    border-right: 0px;
+    border-width: 8px;
+}
+p{
+    color: #E7F6F2;
+}
+table{
+    color: #E7F6F2;
+}
+ul{
+    color: #E7F6F2;
+}
+ol{
+    color: #E7F6F2;
+}
+input.text{
+    color: #E7F6F2;
+}
